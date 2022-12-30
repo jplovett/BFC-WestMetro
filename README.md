@@ -1,2 +1,2 @@
 # BFC-WestMetro
-This project is for the bfc-westmetro.org website
+This repo is for the bfc-westmetro.org site for Dennis Fennel.
